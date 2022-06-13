@@ -18,6 +18,12 @@
   <summary> 💡 Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetoziron&theme=dark">
 </details>
+<br/>
+
+<details>
+  <summary> 💡 Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetoziron&theme=dark">
+</details>
 <!--
 **mehmetoziron/mehmetoziron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
