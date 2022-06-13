@@ -21,11 +21,10 @@
 <br/>
 
 <details>
-  <summary> 💡 Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetoziron&layout=compact&theme=dark">
+  <summary> 💡 Most Used Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetoziron&layout=compact">
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mehmetoziron/mehmetoziron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
