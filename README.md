@@ -2,7 +2,7 @@
 
 ## Mobile Application Developer
 <img  width="22" src="https://unpkg.com/simple-icons@v7/icons/flutter.svg" />
-<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reactnative.svg" />
+<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/react.svg" />
 
 ## Reach out to me
 <a href="https://www.instagram.com/mehmetoziron"> <img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" /></a>
