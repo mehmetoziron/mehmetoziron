@@ -3,7 +3,7 @@
 ## Mobile Application Developer
 
 ## Reach out to me
-<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" onPress="www.instagram.com/mehmetoziron" />
+<a href="www.instagram.com/mehmetoziron" <img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" /></a>
 
 <!--
 **mehmetoziron/mehmetoziron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
