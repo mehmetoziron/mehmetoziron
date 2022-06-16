@@ -25,10 +25,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetoziron&layout=compact">
 </details>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetoziron&layout=compact" alt="mehmetoziron" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetoziron&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
 <!--
 **mehmetoziron/mehmetoziron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://camo.githubusercontent.com/9db3c92295f2e0b081317e0f8a0e4c2c452142c7b5afbe0300c3ab65a728245f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d65686d6574616c696b696c69636c692673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
