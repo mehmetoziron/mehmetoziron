@@ -16,10 +16,11 @@
 
 <details>
   <summary> 💡 Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetoziron&theme=dark">
+  <img align="center" src="https://camo.githubusercontent.com/22c4db33e2b3dd09e1ec18b718c9a5a614557475f7f2a427e5ddcb13b0fd9797/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656c69666f7a68616e312673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="mehmetoziron" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mehmetoziron&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
 </details>
 <br/>
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetoziron&theme=dark">
 <details>
   <summary> 💡 Most Used Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetoziron&layout=compact">
