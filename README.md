@@ -1,7 +1,7 @@
 # Hi there, I'am Mehmet. 👋
 
 ## Mobile Application Developer
-<a href="https://flutter.dev" rel="nofollow"> <img width="22"  src="https://unpkg.com/simple-icons@v7/icons/flutter.svg"  /> </a> <a href="https://reactnative.dev" rel="nofollow"> <img  width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> </a>
+<a href="https://flutter.dev" rel="nofollow"> <img width="22"  src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"  /> </a> <a href="https://reactnative.dev" rel="nofollow"> <img  width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> </a>
 
 ## Reach out to me
 <a href="https://www.instagram.com/mehmetoziron"> <img  width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
