@@ -2,9 +2,7 @@
 
 ## Embedded Systems & Mobile Application Developer
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" style="background-color: #f0f0f0; padding: 4px; border-radius: 6px;"> </a>
-
 <a href="https://reactnative.dev" rel="nofollow"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> </a>
-
 <a href="https://flutter.dev" rel="nofollow"> <img  height="40" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"  /> </a> 
 
 ## Reach out to me
