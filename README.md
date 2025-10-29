@@ -113,7 +113,7 @@
   <a href="https://www.mysql.com/" rel="nofollow">
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-      alt="mysql" height="40"
+      alt="mysql" height="50"
       style="background-color: #f0f0f0; padding: 4px; border-radius: 6px;"
     >
   </a>
