@@ -56,7 +56,7 @@
 
   <a href="https://www.arduino.cc/" rel="nofollow">
     <img 
-      src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/120px-Arduino_Logo_Registered.svg.png" 
       alt="arduino" width="40" height="40"
       style="background-color: #f0f0f0; padding: 4px; border-radius: 6px;"
     >
